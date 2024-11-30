@@ -1,0 +1,51 @@
+# Language-specific ignores
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Common development ignores
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+.secrets
+
+# Project-specific
+fedora-cache/
+fedora.log
+
+# Backup files
+*.bak
+*~
+
+# Compilation and package outputs
+*.o
+*.obj
+*.exe
+*.out

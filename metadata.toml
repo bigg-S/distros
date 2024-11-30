@@ -1,0 +1,23 @@
+
+[spec]
+names = ["fedora"]
+descriptions = [
+    { name= "fedora", description= "setup automation tool for fedora" }
+]
+version = "0.1.0"
+authors = [{ name= "stephen",  email= "oketchs702@gmail.com" }]
+
+category = "distros"
+languages = ["Python"]
+licenses = ["MIT"]
+links = []
+
+
+packages = []
+
+
+supported_os = ["Linux"]
+
+
+supported_distro = ["Fedora"]
+
