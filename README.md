@@ -15,3 +15,5 @@ setup you linux distro
 
 ## Getting Started
 (Add setup instructions specific to your project)
+
+## Supported Platforms
