@@ -1,4 +1,5 @@
 
+
 [spec]
 names = ["fedora"]
 descriptions = [
@@ -10,7 +11,7 @@ authors = [{ name= "stephen",  email= "oketchs702@gmail.com" }]
 category = "distros"
 languages = ["Python"]
 licenses = ["MIT"]
-links = []
+links = ["https://github.com/bigg-S/distros"]
 
 
 packages = []
